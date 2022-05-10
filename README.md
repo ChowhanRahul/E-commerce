@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>plantsera</title>
+	<title>BUDDYKOTTU</title>
 	<style>
 	
 		*{
